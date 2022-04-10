@@ -1,0 +1,7 @@
+O Flyweight é um padrão de projeto estrutural que permite a você colocar mais objetos na quantidade de RAM disponível ao compartilhar partes comuns de estado entre os múltiplos objetos ao invés de manter todos os dados em cada objeto.
+
+Para se divertir após longas horas de trabalho você decide criar um jogo simples: os jogadores estarão se movendo em um mapa e atirado uns aos outros. Você escolhe implementar um sistema de partículas realístico e faz dele uma funcionalidade distinta do jogo. Uma grande quantidades de balas, mísseis, e estilhaços de explosões devem voar por todo o mapa e entregar adrenalina para o jogador.
+
+Ao completar, você sobe suas últimas mudanças, constrói o jogo e manda ele para um amigo para um test drive. Embora o jogo tenha rodado impecavelmente na sua máquina, seu amigo não foi capaz de jogar por muito tempo. No computador dele, o jogo continuava quebrando após alguns minutos de gameplay. Após algumas horas pesquisando nos registros do jogo você descobre que ele quebrou devido a uma quantidade insuficiente de RAM. Acontece que a máquina do seu amigo é muito menos poderosa que o seu computador, e é por isso que o problema apareceu facilmente na máquina dele.
+
+O verdadeiro problema está relacionado ao seu sistema de partículas. Cada partícula, tais como uma bala, um míssil, ou um estilhaço era representado por um objeto separado contendo muita informação. Em algum momento, quando a destruição na tela do jogadora era tanta, as novas partículas criadas não cabiam mais no RAM restante, então o programa quebrava.

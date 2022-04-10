@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bff001a9-0f3b-416b-aa58-03d75560199e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../abstract/implementacao01/Apple.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../abstract/implementacao01/src/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../abstract/implementacao01/src/factory/IPhone11Factory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../abstract/implementacao01/src/factory/IPhoneFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../abstract/implementacao01/src/factory/IPhoneXFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../abstract/implementacao01/src/factory/abstractyFactory/BrazilianRulesAbstract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../abstract/implementacao01/src/factory/abstractyFactory/CountryRulesAbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../abstract/implementacao01/src/factory/abstractyFactory/USRulesAbstract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../abstract/implementacao01/src/model/certificate/BrazilianCertificate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../abstract/implementacao01/src/model/certificate/Certificate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../abstract/implementacao01/src/model/certificate/USCertificate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../abstract/implementacao01/src/model/iphone/IPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../abstract/implementacao01/src/model/iphone/IPhone11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../abstract/implementacao01/src/model/iphone/IPhone11Pro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../abstract/implementacao01/src/model/iphone/IPhoneX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../abstract/implementacao01/src/model/iphone/IPhoneXSMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../abstract/implementacao01/src/model/packing/BrazilianPacking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../abstract/implementacao01/src/model/packing/Packing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../abstract/implementacao01/src/model/packing/USPacking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../abstract/implementacao02/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../abstract/implementacao02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../abstract/implementacao02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../abstract/implementacao02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../abstract/implementacao02/Servico.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../abstract/implementacao02/src/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../abstract/implementacao02/src/factory/EJBAbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../abstract/implementacao02/src/factory/RestAbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../abstract/implementacao02/src/factory/ServiceAbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../abstract/implementacao02/src/service/CarService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../abstract/implementacao02/src/service/UserEJBService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../abstract/implementacao02/src/service/UserRestApiService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../abstract/implementacao02/src/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../abstract/implementacao03/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../abstract/implementacao03/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../abstract/implementacao03/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../abstract/implementacao03/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../abstract/implementacao03/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../abstract/implementacao03/App.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../abstract/implementacao03/src/model/Robo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../builder/implementacao02/FastFood.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../builder/implementacao02/src/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../builder/implementacao02/src/builder/FastFoodMealBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../builder/implementacao02/src/builder/FatMealBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../builder/implementacao02/src/builder/JustFriessBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../builder/implementacao02/src/builder/Menu1Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../builder/implementacao02/src/builder/Menu2Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../builder/implementacao02/src/director/MealDirector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../builder/implementacao02/src/model/FastFoodMeal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../builder/implementacao03FluenteAPI/FluenteAPI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../builder/implementacao03FluenteAPI/src/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../builder/implementacao03FluenteAPI/src/model/CalculoKM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../builder/implementacao03FluenteAPI/src/model/builder/CalculoKMBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../builder/implementacao04Funcional/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../builder/implementacao04Funcional/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../builder/implementacao04Funcional/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../builder/implementacao04Funcional/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../builder/implementacao04Funcional/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../builder/implementacao04Funcional/Funcional.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../builder/implementacao04Funcional/src/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../builder/implementacao04Funcional/src/model/CalculoKM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../builder/implementacao04Funcional/src/model/builder/CalculoKMBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../builder/implementacao05ExercicioEspoleto/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../builder/implementacao05ExercicioEspoleto/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../builder/implementacao05ExercicioEspoleto/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../builder/implementacao05ExercicioEspoleto/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../builder/implementacao05ExercicioEspoleto/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../builder/implementacao05ExercicioEspoleto/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../builder/implementacao05ExercicioEspoleto/Espoleto.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../builder/implementacao05ExercicioEspoleto/src/normal/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../builder/implementacao05ExercicioEspoleto/src/normal/model/Pasta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../builder/implementacao05ExercicioEspoleto/src/normal/model/Size.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../builder/implementacao05ExercicioEspoleto/src/padraoBuilder/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../builder/implementacao05ExercicioEspoleto/src/padraoBuilder/Size.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../builder/implementacao05ExercicioEspoleto/src/padraoBuilder/model/Meal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../builder/implementacao05ExercicioEspoleto/src/padraoBuilder/model/Pasta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../builder/implementacao05ExercicioEspoleto/src/padraoBuilder/model/Salad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../monostate/implementacao01/implementacao01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../monostate/implementacao01/src/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../monostate/implementacao01/src/conn/Connection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../monostate/implementacao01/src/conn/ConnectionPoll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../implementacao01/Animacao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../implementacao01/src/animation/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../implementacao01/src/animation/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../implementacao01/src/animation/model/PersonSamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../implementacao02/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../implementacao02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../implementacao02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../implementacao02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../implementacao02/implementacao02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../implementacao02/src/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../implementacao02/src/model/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../implementacao02/src/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProtypeComBuilder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../singleton/implementacao01/implementacao01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../singleton/implementacao01/src/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../singleton/implementacao01/src/Conn/Connection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../singleton/implementacao01/src/Conn/ConnectionPoll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../builder/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../builder/README.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="26Rnwt8Z1bHQL3RRzuKeWacTYvJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateBuilderDialog.RecentsKey">
+      <recent name="model" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Cliente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cliente" />
+      <module name="ProtypeComBuilder" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Cliente" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bff001a9-0f3b-416b-aa58-03d75560199e" name="Changes" comment="" />
+      <created>1647395509129</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647395509129</updated>
+      <workItem from="1647395510351" duration="1710000" />
+      <workItem from="1647787262512" duration="605000" />
+      <workItem from="1647801143094" duration="650000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
